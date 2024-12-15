@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import MicOn from "../assets/ion_mic-on.svg";
 import MicOff from "../assets/ion_mic-off.svg";
-import HeadphoneOn from "../assets/mingcute_headphone-on.svg";
+import HeadphoneOn from "../assets/mingcute_headphone-on.svg";  
 import HeadphoneOff from "../assets/mingcute_headphone-off.svg";
 import VideoOn from "../assets/mynaui_video-on.svg";
 import VideoOff from "../assets/mynaui_video-off.svg";
